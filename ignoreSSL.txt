@@ -1,0 +1,4 @@
+echo insecure >> ~/.curlrc
+HOMEBREW_CURLRC=1
+export HOMEBREW_CURLRC
+brew install …
